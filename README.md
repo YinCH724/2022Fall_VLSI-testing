@@ -1,2 +1,2 @@
 # VLSI-testing
-*** ##assignment_1 寫在main.cc中。 ***
+***assignment_1 寫在main.cc中。***
